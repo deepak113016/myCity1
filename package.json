@@ -1,0 +1,22 @@
+{
+  "name": "mycity1",
+  "version": "1.0.0",
+  "description": "First implementation of ejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "node app"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "ejs",
+    "template"
+  ],
+  "author": "Deepak",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
